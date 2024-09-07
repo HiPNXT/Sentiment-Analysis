@@ -21,4 +21,3 @@ Agoda Sentiment Analysis là một hệ thống phân loại các đánh giá c�
 * underthesea
 * langdetect
 * scikit-learn
-* gensim
