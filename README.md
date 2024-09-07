@@ -8,9 +8,10 @@ Agoda Sentiment Analysis là một hệ thống phân loại các đánh giá c�
 </p>
 
 <p align="center">
-  <img src="demo/predict.png" width=500><br/>
+  <img src="demo/predict.png" width=300><br/>
   <i>Dự đoán nhãn</i>
 </p>
+
 ## Yêu cầu
 * python 3.11
 * spark 3.5.1
